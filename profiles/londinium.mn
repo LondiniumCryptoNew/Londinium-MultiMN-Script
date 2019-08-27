@@ -1,0 +1,6 @@
+COIN_NAME="londinium"
+COIN_PATH="/usr/local/bin/"
+COIN_DAEMON="londiniumd"
+COIN_CLI="londinium-cli"
+COIN_FOLDER="/root/.londinium"
+COIN_CONFIG="londinium.conf"
